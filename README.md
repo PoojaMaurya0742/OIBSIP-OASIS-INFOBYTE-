@@ -44,6 +44,8 @@ Open the landing page:**Double-click lp.html**
 
 3] Or open it in your browser of choice
 
+-----
+
 ✨ Features
 Clean and modern UI design
 
@@ -57,28 +59,27 @@ Beginner-friendly and well-structured code
 
 Easy to customize color palette and content
 
+------
+
 🎯 Internship Task Info
 This project is part of:
 
 OIBSIP – Oasis Infobyte Web Development Internship
 Level 1 – Task 1: Create a Landing Page
-
+--------
 👩‍💻 Developed By
 Pooja Maurya
 GitHub: https://github.com/PoojaMaurya0742
 
 Best of luck for your internship! 🌟
-
+--------
 📬 Contact
 Feel free to reach out for collaboration, questions, or feedback.
-
+--------
 📌 License
 This project is open-source and free to use.
 
-yaml
-Copy code
-
----
+---------
 
 ### ✅ **Key Fixes / Improvements**
 1. **Git clone link fixed** → `https://github.com/PoojaMaurya0742/OIBSIP-OASIS-INFOBYTE-.git`  
