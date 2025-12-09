@@ -33,9 +33,6 @@ It demonstrates:
 ┣ 📜 lp.js # JavaScript interactivity
 ┗ 📜 README.md # Project documentation
 
-yaml
-Copy code
-
 ---
 
 ## 🚀 How to Run the Project
