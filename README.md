@@ -38,6 +38,7 @@ It demonstrates:
 ## 🚀 How to Run the Project
 1] Clone/download the repository:
 **git clone https://github.com/PoojaMaurya0742/OIBSIP-OASIS-INFOBYTE-.git**
+
 2] Navigate to the project folder:
 Open the landing page:**Double-click lp.html**
 
