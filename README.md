@@ -66,16 +66,20 @@ This project is part of:
 
 OIBSIP – Oasis Infobyte Web Development Internship
 Level 1 – Task 1: Create a Landing Page
+
 --------
+
 👩‍💻 Developed By
 Pooja Maurya
 GitHub: https://github.com/PoojaMaurya0742
 
-Best of luck for your internship! 🌟
 --------
+
 📬 Contact
 Feel free to reach out for collaboration, questions, or feedback.
+
 --------
+
 📌 License
 This project is open-source and free to use.
 
