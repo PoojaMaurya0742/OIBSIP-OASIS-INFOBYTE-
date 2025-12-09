@@ -36,7 +36,7 @@ No frameworks were used — the project is made **purely with HTML, CSS, and JS.
 
 ## 🚀 How to Run the Project
 1. Clone/download the repository  
-git clone https://github.com/PoojaMaurya0742/OIBSIP-OASIS-INFOBYTE-.git2. Open the folder  
+git clone https://github.com/PoojaMaurya0742/OIBSIP-OASIS-INFOBYTE. Open the folder  
 3. Double-click lp.html
 4. The landing page will open in your browser  
 
