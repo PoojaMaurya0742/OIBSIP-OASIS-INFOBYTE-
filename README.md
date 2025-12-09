@@ -83,13 +83,4 @@ Feel free to reach out for collaboration, questions, or feedback.
 📌 License
 This project is open-source and free to use.
 
----------
 
-### ✅ **Key Fixes / Improvements**
-1. **Git clone link fixed** → `https://github.com/PoojaMaurya0742/OIBSIP-OASIS-INFOBYTE-.git`  
-2. **Formatted headings & sections** → professional look  
-3. **Code blocks** added for commands & file structure  
-4. **Feature highlights** more readable  
-5. **Optional info** like “How to Run” properly formatted  
-
----
