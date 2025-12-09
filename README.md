@@ -1,6 +1,6 @@
 # 🌐 Landing Page – OIBSIP (Oasis Infobyte) Internship  
 
-This is a fully responsive and clean Landing Page created as a part of the **Oasis Infobyte Web Development Internship – Level 1, Task 1**.
+This is a fully responsive and clean **Landing Page** created as a part of the **Oasis Infobyte Web Development Internship – Level 1, Task 1**.
 
 ---
 
