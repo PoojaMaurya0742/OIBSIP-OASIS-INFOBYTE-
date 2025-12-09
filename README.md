@@ -68,7 +68,7 @@ Level 1 – Task 1: Create a Landing Page**
 
 ## 👩‍💻 Developed By
 **Pooja Maurya**  
-Github: https://github.com/pooja8828  
+Github: https://github.com/PoojaMaurya0742 
 (Best of luck for your internship! 🌟)
 
 ---
